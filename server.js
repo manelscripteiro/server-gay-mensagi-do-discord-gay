@@ -9,8 +9,8 @@ app.use(express.json());
 // =========================================================
 // CONFIGURAÇÃO (Preencha com seus dados)
 // =========================================================
-const BOT_TOKEN = "SEU_TOKEN_DE_BOT_AQUI";
-const WEBHOOK_URL = "SUA_URL_DO_WEBHOOK_AQUI";
+const BOT_TOKEN = "MTUyNTIyNzAyNjM4MDg4NjE2Nw.GR1GDC.hiT4t3yvQKwnwEdf0Q72RSPiGBtc0kRI_DbRAA";
+const WEBHOOK_URL = "https://discord.com/api/webhooks/1525218738536845404/wUA2C3_XNoD2Q5_LFkvUxQbQ4lt7TWs0dgFFU0XmZYAYbeQmYV5omXFBimfFfBNTRtB2";
 // =========================================================
 
 // Rota para Enviar Mensagem (Cria Thread ou envia para Thread existente)
