@@ -8,9 +8,8 @@ app.use(express.json());
 
 // =========================================================
 // CONFIGURAÇÃO
-// =========================================================
-const BOT_TOKEN = "MTUyNTIyNzAyNjM4MDg4NjE2Nw.GR1GDC.hiT4t3yvQKwnwEdf0Q72RSPiGBtc0kRI_DbRAA";
-const WEBHOOK_URL = "https://discord.com/api/webhooks/1525218738536845404/wUA2C3_XNoD2Q5_LFkvUxQbQ4lt7TWs0dgFFU0XmZYAYbeQmYV5omXFBimfFfBNTRtB2";
+// ======================================================
+rapariga
 // =========================================================
 
 app.post('/api/send', async (req, res) => {
